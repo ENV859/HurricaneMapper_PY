@@ -7,3 +7,6 @@ data/raw/IBTrACS_NA.shx
 
 # Ignore outputs
 data/processed/*
+
+# Ignore lock files
+*.lock
